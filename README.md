@@ -1,4 +1,4 @@
-# Bookshop Inventory Management System (C++)
+# Bookshop Inventory Management System CP (C++)
 
 A simple **Bookshop Inventory Management System** built using **C++**, designed for **Console Applications**.
 This project allows bookshops to manage their book records, track inventory, and perform basic operations like search, update, delete, and purchase.
